@@ -1,0 +1,7 @@
+EmployeeID,Name,Age,Department,Salary,HireDate,IsActive
+1, Alice ,25.0,HR,70000,2020-01-01,Y
+2,Bob,30.0,IT,80000,2019-05-10,Y
+3,charlie,35.0,IT,invalid,2021-03-15,N
+4,,40.0,Finance,100000,2018-11-20,Y
+5,Eve,,HR,75000,,Y
+6,,50.0,IT,85000,2017-07-07,

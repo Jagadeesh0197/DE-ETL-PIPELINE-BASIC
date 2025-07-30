@@ -1,0 +1,10 @@
+Department,SalarysBuckets,EmpCount,AvgSalary,AvgYears
+Finance,low,0,,
+Finance,medium,1,100000.0,6.0
+Finance,high,0,,
+HR,low,0,,
+HR,medium,2,72500.0,65.0
+HR,high,0,,
+IT,low,0,,
+IT,medium,3,82333.3,6.0
+IT,high,0,,

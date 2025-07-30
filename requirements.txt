@@ -1,0 +1,8 @@
+
+### 📄 Create `requirements.txt`
+List the required packages:
+
+```txt
+pandas
+numpy
+pyarrow
